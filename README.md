@@ -1,4 +1,4 @@
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/Trilochan-Tripathy/Trilochan-Tripathy/assets/141568396/ef34f15b-448c-409e-80f0-c8cba63a1d30)
+
 
 <h1 align="center">Hi 👋, I'm Trilochan Tripathy</h1>
 <h3 align="center">Data Analyst</h3>
